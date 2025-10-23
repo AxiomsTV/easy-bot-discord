@@ -1,0 +1,9 @@
+node_modules/
+.env
+credentials.json
+data/*.json
+logs/
+.DS_Store
+.vscode/
+npm-debug.log
+yarn-error.log
